@@ -1,0 +1,3 @@
+C:/dev/SDL2_devel/SDL2-TEMPLATE/cmake-build-debug/CMakeFiles/SDL2-TEMPLATE.dir
+C:/dev/SDL2_devel/SDL2-TEMPLATE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/dev/SDL2_devel/SDL2-TEMPLATE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
